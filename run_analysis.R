@@ -47,4 +47,5 @@ run_analysis <- function()
     myData$ActSub<-interaction(myData$Activity,myData$Subject)
     s<-split(myData,myData$ActSub)
     SubMeans<-sapply(s,function(myData) colMeans(myData[,names(myData)[3:68]]))
+    SubMeans
 }
