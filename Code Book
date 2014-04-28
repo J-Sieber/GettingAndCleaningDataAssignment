@@ -5,3 +5,6 @@ Column format:
 1.1, 2.1, etc.
 
 format is activity.subject
+
+Row format:
+mean() and std() variables only
