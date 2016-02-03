@@ -23,7 +23,7 @@ run_analysis <- function()
     y_test<-cbind(y_test,Subject_test)
     names(y_test)<-yNames
     y_train<-cbind(y_train,Subject_train)
-    ## Step3
+    ## Step3 
     ## Name the activities
     names(y_train)<-yNames
     y<-rbind(y_train,y_test)
