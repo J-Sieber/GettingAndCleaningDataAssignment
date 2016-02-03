@@ -1,7 +1,7 @@
-Getting-And-Cleaning-Data-Assignment-1
+GettingAndCleaningDataAssignment
 ======================================
 
-Getting and Cleaning Data - Assignment 1
+Getting and Cleaning Data - Assignment for Coursera Classs
 
 
 1. Save run_analysis.R in the folder with the UCI HAR Dataset folder
